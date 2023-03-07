@@ -1,0 +1,30 @@
+
+body {
+    background-image: url("bay.jpg");
+}
+
+img {
+    opacity: 0.4;
+}
+
+h1 {
+    color: aqua;
+}
+
+h3 {
+    color: midnightblue;
+}
+
+i {
+    color: greenyellow;
+}
+
+table {
+    border: midnightblue;
+    background-color: mintcream;
+}
+
+text {
+    margin-left: 200px;
+
+}

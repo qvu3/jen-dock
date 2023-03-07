@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="svTodo:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/svTodo_war</output-path>
+    <root id="archive" name="svTodo_war.war">
+      <element id="artifact" artifact-name="svTodo:war exploded" />
+    </root>
+  </artifact>
+</component>
