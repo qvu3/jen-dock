@@ -72,5 +72,6 @@
                 <version>3.3.2</version>
             </plugin>
         </plugins>
+        <finalName>svtodo-1.0-snapshot</finalName>
     </build>
 </project>
